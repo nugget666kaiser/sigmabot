@@ -1,0 +1,230 @@
+✐ Comandos de *Economia* para ganar dinero y divertirte con tus amigos.
+✦ *#balance • #bal • #coins* + <usuario>
+→ Ver cuantos coins tienes.
+✦ *#economyinfo • #einfo*
+→ Ver tu información de economía en el grupo.
+✦ *#work • #w*
+→ Ganar coins trabajando.
+✦ *#slut*
+→ Ganar coins prostituyéndote.
+✦ *#crime*
+→ Ganar coins rapido.
+✦ *#guess • #acertijo*
+→ Resolver un acertijo para ganar coins. (Costo: 15000))
+✦ *#deposit • #dep • #depositar • #d* + [cantidad] | all
+→ Depositar tus coins en el banco.
+✦ *#withdraw • #with • #retirar* + [cantidad] | all
+→ Retirar tus coins en el banco.
+✦ *#coinflip • #flip • #cf* + [cantidad]
+→ Apostar coins en un cara o cruz.
+✦ *#givecoins • #pay • #coinsgive* + [usuario] [cantidad]
+→ Dar coins a un usuario.
+✦ *#roulette • #rt* + [red/black] [cantidad]
+→ Apostar coins en una ruleta.
+✦ *#steal • #robar • #rob* + [@mencion]
+→ Intentar robar coins a un usuario.
+✦ *#economyboard • #eboard • #baltop* + <pagina>
+→ Ver el ranking de usuarios con más coins.
+✦ *#daily • #d*
+→ Reclamar tu recompensa diaria.
+
+»  ⊹˚୨ •(=^●ω●^=)•  *Gacha* ⊹
+
+✐ Comandos de *Gacha* para reclamar y intercambiar personajes.
+✦ *#rollwaifu • #rw • #roll*
+→ Waifu o husbando aleatorio
+✦ *#claim • #c • #reclamar* + {citar personaje}
+→ Reclamar un personaje.
+✦ *#vote • #votar* + [nombre]
+→ Votar por un personaje para subir su valor.
+✦ *#gachainfo • #ginfo • #infogacha*
+→ Ver tu información de gacha.
+✦ *#serieinfo • #ainfo • #animeinfo* + [nombre]
+→ Información de un anime.
+✦ *#harem • #waifus • #claims* + <@usuario>
+→ Ver tus personajes reclamados.
+✦ *#trade • #intercambiar* + [Tu personaje] / [Personaje 2]
+→ Intercambiar un personaje con otro usuario
+✦ *#favoritetop • #favtop*
+→ Ver el top de personajes favoritos.
+✦ *#haremshop • #tiendawaifus • #wshop* + <Pagina>
+→ Ver los personajes en venta.
+✦ *#sell • #vender* + [precio] [nombre]
+→ Poner un personaje a la venta.
+✦ *#removesale • #removerventa* + [precio] [nombre]
+→ Eliminar un personaje en venta.
+✦ *#buycharacter • #buychar • #buyc* + [nombre]
+→ Comprar un personaje en venta.
+✦ *#waifusboard • #waifustop • #topwaifus* + [número]
+→ Ver el top de personajes con mayor valor.
+✦ *#deletewaifu • #delwaifu • #delchar* + [nombre]
+→ Eliminar un personaje reclamado.
+✦ *#givechar • #givewaifu • #regalar* + [@usuario] [nombre]
+→ Regalar un personaje a otro usuario.
+✦ *#charimage • #waifuimage • #wimage* + [nombre]
+→ Ver una imagen aleatoria de un personaje.
+✦ *#charinfo • #winfo • #waifuinfo* + [nombre]
+→ Ver información de un personaje.
+✦ *#setclaimmsg • #setclaim* + [mensaje]
+→ Modificar el mensaje al reclamar un personaje
+✦ *#delclaimmsg*
+→ Restablecer el mensaje al reclamar un personaje
+✦ *#serielist • #slist • #animelist*
+→ Listar series del bot
+
+»  ⊹˚୨ •(=^●ω●^=)•  *Profile* ⊹
+
+✐ Comandos de *Perfil* para ver y configurar tu perfil.
+✦ *#profile* + <@Mencion>
+→ Ver tu perfil.
+✦ *#level* + <@Mencion>
+→ Ver tu nivel y experiencia actual.
+✦ *#marry • #casarse* + <@Mencion>
+→ Casarte con alguien.
+✦ *#divorce*
+→ Divorciarte de tu pareja.
+✦ *#gp • #group*
+→ Informacion del grupo.
+✦ *#leaderboard • #lboard • #top* + <Paginá>
+→ Top de usuarios con más experiencia.
+✦ *#birthdays • #cumpleaños • #births*
+→ Ver cumpleaños cercanos en el grupo.
+✦ *#allbirthdays • #allbirths*
+→ Ver todos los cumpleaños.
+✦ *#setbirth* + [fecha]
+→ Establecer tu fecha de cumpleaños.
+✦ *#setgenre* + Hombre | Mujer
+→ Establecer tu genero.
+✦ *#setfavourite • #setfav* + [Personaje]
+→ Establecer tu claim favorito.
+✦ *#setdescription • #setdesc* + [Descripcion]
+→ Establecer tu descripcion.
+
+»  ⊹˚୨ •(=^●ω●^=)•  *Utils* ⊹
+
+✐ Comandos *Utiles*
+✦ *#menu • #help • #commands*
+→ Ver el menú de comandos.
+✦ *#ping • #p*
+→ Medir tiempo de respuesta
+✦ *#status*
+→ Ver estado del bot
+✦ *#sticker • #s • #stickers* + {citar una imagen/video}
+→ Convertir una imagen/video a sticker
+✦ *#setstickermeta • #setmeta* + [autor] | [pack]
+→ Establecer el pack y autor por defecto para tus stickers.
+✦ *#delstickermeta • #delmeta*
+→ Restablecer el pack y autor por defecto para tus stickers.
+✦ *#del • #delete* + {citar un mensaje}
+→ Eliminar un mensaje.
+✦ *#join* + [Invitacion]
+→ Invitar al bot a un grupo.
+✦ *#say* + [texto]
+→ Repetir un mensaje
+✦ *#toimage • #toimg* + {citar sticker}
+→ Convertir un sticker a imagen.
+✦ *#suggest • #add • #addanime* + [Nombre]
+→ Solicitar un anime/serie/juego o personaje faltante
+✦ *#bots • #sockets*
+→ Ver el estado de los bots.
+✦ *#ia • #gpt* + [texto]
+→ Generar texto con inteligencia artificial.
+✦ *#getpic • #pfp* + [@usuario]
+→ Ver la foto de perfil de un usuario.
+
+»  ⊹˚୨ •(=^●ω●^=)•  *Nsfw* ⊹
+
+✐ Comandos *NSFW* (Contenido para adultos)
+✦ *#fuck* + <@mencion>
+→ Cogerse a un usuario
+✦ *#blowjob • #bj* + <@mencion>
+→ Darle una mamada a alguien
+✦ *#cum • #bj* + <@mencion>
+→ Cumear a alguien
+✦ *#grabboobs* + <@mencion>
+→ Agarrarle las tetas a alguien
+✦ *#sixnine • #69* + <@mencion>
+→ Hacer un 69 con alguien
+✦ *#suckboobs* + <@mencion>
+→ Chuparle las tetas a alguien
+✦ *#spank • #nalgada* + <@mencion>
+→ Darle una nalgada a alguien
+✦ *#gelbooru • #gbooru • #booru* + [Tags]
+→ Buscar imagenes en Gelbooru
+✦ *#danbooru • #dbooru* + [Tags]
+→ Buscar imagenes en Danbooru
+✦ *#e621* + [Tags]
+→ Buscar imagenes en e621.
+✦ *#rule34 • #r34* + [Tags]
+→ Buscar imagenes en Rule34
+✦ *#nekomimi • #neko*
+✦ *#ass • #poto*
+✦ *#pussy*
+✦ *#hentai*
+✦ *#loli*
+✦ *#shy • #timido* + <mencion>
+✦ *#sad • #triste* + <mencion>
+✦ *#happy • #feliz* + <mencion>
+✦ *#love • #amor* + <mencion>
+✦ *#kiss • #muak* + <mencion>
+✦ *#slap* + <mencion>
+✦ *#pat* + <mencion>
+✦ *#hug* + <mencion>
+✦ *#bite* + <mencion>
+✦ *#lick* + <mencion>
+✦ *#punch* + <mencion>
+✦ *#poke* + <mencion>
+✦ *#cuddle* + <mencion>
+✦ *#blush*
+✦ *#bleh*
+✦ *#cry*
+✦ *#dance*
+✦ *#facepalm*
+✦ *#laugh*
+✦ *#pout*
+✦ *#scared*
+✐ Comandos para administradores de grupos.
+✦ *#qrmod • #codemod* + [Token]
+→ Crear un bot main
+✦ *#ban* + <@mencion>
+→ Banear un usuario del bot.
+✦ *#unban • #pardon* + <@mencion>
+→ Desbanear un usuario del bot.
+✦ *#mute*
+✦ *#warn* + <@mencion>
+→ Advertir a un usuario.
+✦ *#warns* + <@mencion>
+→ Ver advertencias de un usuario.
+✦ *#delwarn* + <@mencion>
+→ Eliminar una advertencia de un usuario.
+✦ *#addvideo* + [categoria]
+→ Añadir un video a la database
+✦ *#adds*
+→ Añadir una serie a db.
+✦ *#addc*
+→ Añadir personajes a la db
+✦ *#sinfo* + [nombre]
+→ Información de una serie.
+✦ *#cinfo* + [nombre]
+→ Información de un personaje.
+✦ *#csource* + [nombre] = [fuente id]
+→ Cambiar la fuente de un personaje.
+✦ *#ctag* + [nombre] = [fuente id]
+→ Cambiar el tag de un personaje.
+✦ *#cname* + [id personaje] = [nombre]
+→ Cambiar el nombre de un personaje.
+✦ *#sname* + [id serie] = [nombre]
+→ Cambiar el nombre de una serie.
+→ Cambiar el nombre del bot
+✦ *#setbotcurrency* + [nombre]
+→ Cambiar la moneda del bot
+✦ *#setbanner • #setmenubanner*
+→ Cambiar el banner del menu
+✦ *#leave • #salir*
+→ Salir de un grupo
+✦ *#setusername* + [nombre]
+→ Cambiar el nombre de usuario
+✦ *#setstatus* + [estado]
+→ Cambiar la imagen de perfil
+✦ *#logout*
+→ Cerrar sesion del bot
